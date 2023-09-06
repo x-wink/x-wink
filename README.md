@@ -1,8 +1,8 @@
-# 👋 大佬们好
-# 👀 [点这里进我的主页](https://xiangwenke/love)
-# 🌱 研究WebGL中
-# 💞️ 没事就爱造轮子玩
-# 📫 13202090601@163.com
+# 👋 来了老弟
+#### 👀 [点这里进我的主页](https://xiangwenke/love)
+#### 🌱 学习WebGL中
+#### 💞️ 没事就爱造轮子玩
+##### 📫 1041367524@qq.com
 
 <!---
 x-wink/x-wink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
